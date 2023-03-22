@@ -1,3 +1,4 @@
+//print spool
 #include<stdio.h>
 #define sz 100
 #include<stdlib.h>
@@ -72,5 +73,3 @@ void display()
         }
     }
 }
-
-
