@@ -84,7 +84,6 @@ for (;;)
 {
 printf("1:INSERT 2:SEARCH 3:DISPLAY\n");
 scanf("%d", &ch);
-
 switch (ch)
 {
 case 1 : first = insertFront(first);
